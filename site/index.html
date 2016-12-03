@@ -1,0 +1,244 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>A Lifetime in Verse</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+      <link rel="apple-touch-icon" sizes="57x57" href="/site/images/apple-icon-57x57.png">
+      <link rel="apple-touch-icon" sizes="60x60" href="/site/images/apple-icon-60x60.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="/site/images/apple-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="76x76" href="/site/images/apple-icon-76x76.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="/site/images/apple-icon-114x114.png">
+      <link rel="apple-touch-icon" sizes="120x120" href="/site/images/apple-icon-120x120.png">
+      <link rel="apple-touch-icon" sizes="144x144" href="/site/images/apple-icon-144x144.png">
+      <link rel="apple-touch-icon" sizes="152x152" href="/site/images/apple-icon-152x152.png">
+      <link rel="apple-touch-icon" sizes="180x180" href="/site/images/apple-icon-180x180.png">
+      <link rel="icon" type="image/png" sizes="192x192"  href="/site/images/android-icon-192x192.png">
+      <link rel="icon" type="image/png" sizes="32x32" href="/site/images/favicon-32x32.png">
+      <link rel="icon" type="image/png" sizes="96x96" href="/site/images/favicon-96x96.png">
+      <link rel="icon" type="image/png" sizes="16x16" href="/site/images/favicon-16x16.png">
+      <link rel="icon" type="image/png" href="/site/images/favicon-16x16.png">
+      <link rel="manifest" href="/manifest.json">
+      <meta name="msapplication-TileColor" content="#ffffff">
+      <meta name="msapplication-TileImage" content="/site/images/ms-icon-144x144.png">
+      <meta name="theme-color" content="#ffffff">
+	</head>
+	<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=182677332743"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<h1><a href="#" id="top">Poetry of Helen Frazee Bower</a></h1>
+						<nav class="links">
+							<ul>
+								<li><a href="#tiny-posts">Poems</a></li>
+								<li><a href="#about">About</a></li>
+								<li><a href="#contact">Contact</a></li>
+							</ul>
+						</nav>
+						<nav class="main">
+							<ul>
+								<li class="search">
+									<a class="fa-search" href="#search">Search</a>
+									<form id="search" method="get" action="#">
+										<input type="text" name="query" placeholder="Search" />
+									</form>
+								</li>
+                        <li id="fbpic">
+                        </li>
+								<li class="menu">
+									<a class="fa-bars" href="#menu">Menu</a>
+								</li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<section id="menu">
+
+						<!-- Search -->
+							<section>
+								<form class="search" method="get" action="#">
+									<input type="text" name="query" placeholder="Search" />
+								</form>
+							</section>
+
+						<!-- Links -->
+							<section>
+								<ul class="links">
+									<li>
+										<a href="#poems">
+											<h3>Poems</h3>
+											<p>Collection of sonnets and poems written by Helen Frazee Bower.</p>
+										</a>
+									</li>
+									<li>
+										<a href="#about">
+											<h3>About</h3>
+											<p>Short biography detailing the life, works and accomplishments of Helen Frazee Bower.</p>
+										</a>
+									</li>
+									<li>
+										<a href="#contact">
+											<h3>Contact Us</h3>
+											<p>Question or comments? We love getting feedback from our readers.</p>
+										</a>
+									</li>
+								</ul>
+							</section>
+
+						<!-- Actions -->
+							<section>
+								<ul class="actions vertical">
+									<li>
+                              <fb:login-button scope="public_profile,email" data-size="xlarge" data-show-faces="false" data-auto-logout-link="true" onlogin="boss.fb_checkLoginState();"> </fb:login-button>
+                           <!--a href="#" class="button big fit">Log In</a-->
+                           </li>
+								</ul>
+							</section>
+
+					</section>
+
+				<!-- Main -->
+					<div id="main">
+                  <div id="content">
+						<!-- Post -->
+							<template id="post-template">
+								<header>
+								<a href="#{{id}}" class="image featured"><img src="images/{{image}}" alt="{{title}}" /></a>
+   							</header>
+								{{formattedPoem}}
+								<footer>
+									<ul class="stats">
+										<li><a href="/cmd.php?x=like&id={{id}}" onclick="return boss.like(this)" class="icon fa-heart">{{likes}}</a></li>
+                              <li>
+                                 <div class="fb-share-button" data-href="http://helenfrazeebower.com/site/poem.php?id={{id}}" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fhelenfrazeebower.com%2Fsite%2Fpoem.php%3Fid={{id}}&amp;src=sdkpreparse">Share</a></div>
+                              </li>
+										<li><a href="/cmd.php?x=getComments&id={{id}}" onclick="return boss.toggleComments({{id}})" class="icon fa-comment"><div style="display:inline-block;"class="fb-comments-count" data-href="http://helenfrazeebower.com/site/#{{id}}">{{comments}}</div></a></li>
+									</ul>
+                           <div id="comments{{id}}" class="comment-drawer closed">
+                              <div class="fb-comments" data-href="http://helenfrazeebower.com/site/#{{id}}" data-numposts="5"></div>
+                           <div>
+								</footer>
+							</template>
+
+                  </div>
+                  <div id="comments">
+                     <template id="comment-template">
+                        <header></header>
+                        <main></main>
+                        <footer></footer>
+                     </template>
+                  </div>
+						<!-- Pagination -->
+                  <ul id="navbuttons" class="actions pagination">
+                     <li><a id="btnPrev" href="#prev" class="button big previous">Previous</a></li>
+                     <li><a id="btnNext" href="#next" class="button big next">Next</a></li>
+                  </ul>
+					</div>
+
+				<!-- Sidebar -->
+					<section id="sidebar">
+
+						<!-- Intro -->
+							<section id="intro">
+								<a href="#" class="logo"><img src="images/logo.png" alt="" /></a>
+								<header>
+									<h2>A Lifetime in Verse</h2>
+									<p>The Sonnets and Poetry of Helen Frazee Bower.</a></p>
+								</header>
+							</section>
+
+						<!-- Mini Posts -->
+							<section>
+								<div class="mini-posts">
+                           <ul id="mini-posts">
+									<!-- Mini Post -->
+                           <template id="mini-post">
+                              <article class="mini-post">
+											<header>
+											<a href="#{{id}}" class="image"><img src="images/pics/{{image}}" alt="{{title}}" /></a>
+											</header>
+                                 <div>
+												<h3><a href="#{{id}}">{{title}}</a></h3>
+												<h4>{{firstStanza}}</h4>
+                                 </div>
+										</article>
+                           </template>
+                           </ul>
+								</div>
+							</section>
+
+						<!-- Posts List -->
+							<section>
+                        <h2>Poems</h2>
+								<ul id="tiny-posts" class="posts">
+									<template id="tiny-post">
+										<article>
+											<!--header>
+											<a href="#{{id}}" class="image"><img src="images/thumbs/{{image}}" alt="{{title}}" /></a>
+                                 </header-->
+                                 <div>
+												<h3><a href="#{{id}}">{{title}}</a></h3>
+												<!--h4>{{firstline}}</h4-->
+                                 </div>
+										</article>
+                           </template>
+								</ul>
+							</section>
+
+						<!-- About -->
+							<section id='about' class="blurb">
+								<h2>About</h2>
+								<p>
+Helen Frazee-Bower was one of America's finest writers of verse in the early 20th century. She was born in California, 
+the daughter of artist and writer Isaac Jenkinsen Frazee. She was the wife of musician William M. Bower and the 
+mother of five.  Besides being a prolific poet, author and storyteller, Helen taught in the Los Angeles City School System, 
+was a well-known speaker and a Bible teacher. </p>
+<p>In November, 1955, Helen's life was changed forever when she was carelessly struck by an automobile while using a crosswalk
+to cross a busy Los Angeles street.  From that time until her death in June of 1960, she was paralyzed from her neck down, unable to
+use her arms or legs. Her poetry continued, however, with the aid of her loving and devoted husband, to whom she dictated her work. 
+</p>
+<p>A devout woman, her poems and stories have a deeply spiritual nature. Her work has appeared in many religious publications, 
+poetry magazines, as well as more popular mainstream magazines such as Harper's, Saturday Evening Post, Ladies Home Journal, 
+and Good Housekeeping.
+</p>
+								<ul class="actions">
+									<li><a href="#" class="button">Learn More</a></li>
+								</ul>
+							</section>
+
+						<!-- Footer -->
+							<section id="footer">
+								<ul class="icons">
+									<li><a href="https://twitter.com/helenfrazeebowr" target="_blank" class="fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="#" class="fa-facebook"><span class="label">Facebook</span></a></li>
+									<li><a href="#" class="fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="rss.php" class="fa-rss"><span class="label">RSS</span></a></li>
+								</ul>
+								<p class="copyright">&copy; 2016.</p>
+							</section>
+
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+			<script src="smoothscroll.js"></script>
+         <script src="main.js"></script>
+         <script src="../genpoems.php" onload="boss.init();"></script>
+
+	</body>
+</html>

@@ -1,0 +1,241 @@
+body {
+	background: #fff;
+	color: #111;
+	font: 16px "IM Fell English",Lora,"Palatino Linotype","Times New Roman",Times,serif;
+	text-align: center;
+	}
+	
+	div, h1, h2, p {
+		margin: 0;
+		padding: 0;
+		}
+   a {
+      color:#000000;
+      text-decoration:none;
+   }
+   a:visited {
+      color: #999999;
+      text-decoration:none;
+   }
+   a:hover {
+      color:#00aa00;
+   }
+   #list {
+      position:fixed;
+      padding:.5em .5em 1em 0em;
+      top:0px;
+      width:18em;
+      bottom:0px;
+      left:0px;
+      background-color:#fff;
+      box-shadow: 0 0 1em rgba(0, 0, 0, 0.35);
+      color:#000;
+      overflow:scroll;
+      text-align:left;
+   }
+		#poem { 
+			position:relative;
+         line-height:1.5em;
+         margin: -8px auto 0px auto;
+			text-align: center;
+         padding: 4em 0px 2em 0px;
+         background-color:#ffffff;
+			}
+		
+			h1, h2 {
+				font-weight: normal;
+				text-align: center;
+				}
+				
+			h1 {
+				font-size: 34px;
+				line-height: 1.2;
+				margin-bottom: 10px;
+				}
+			div#title h1 {
+            font-size: 48px;
+         }
+			h2 {
+				color: #666;
+				font-size: 22px;
+				font-style: italic;
+				margin-bottom: 30px;
+				}
+			h3 {
+				color: #666;
+				font-size: 16px;
+				font-weight: normal;
+            margin-bottom: 30px;
+            text-align:right;
+            width:40%;
+            margin-left:auto;
+            margin-right:auto;
+				}
+         div#title h3 {
+            text-align:center;
+            font-size:22px;
+         }
+					
+			p {
+               letter-spacing: 0.95px;
+               line-height: 2;
+               margin-bottom: 1em;
+               margin-left:1em;
+				}
+			
+			/* The magic of selectors begins... */
+			
+			h2:before {
+				content: '— ';
+				}
+			
+			h2:after {
+				content: ' —';
+			}
+			
+			.poem ul:first-child li:first-child:first-letter {
+					float: left;
+					font-size: 3em;
+					line-height: .5;
+					margin: .32em 5px 0 -1em;
+               padding-left:.5em;
+               display:inline-block;
+			}
+				
+			#poem ul:first-child li:first-child {
+				font-variant: small-caps;
+				letter-spacing: 0;
+            position:relative;
+		   }
+         
+         #poem ul {
+            list-style-type:none;
+         }
+
+         #poem .flush ul li:nth-child(2n+2) {
+            padding-left:0px;  
+         }
+
+         #poem .flush ul li:nth-child(2n+1) {
+            padding-left:0px;  
+         }
+
+         #poem .staggered ul li:nth-child(2n+2) {
+            padding-left:1em;  
+         }
+
+         #poem .staggered ul li:nth-child(2n+1) {
+            padding-left:0px;  
+         }
+         
+         #poem .trailing ul:last-child > li {
+            padding-left:0px;
+         }
+         article.trailing ul.stanza:last-child > li {
+            padding-left:0px;
+         }
+
+			#poem ul:last-child {
+			   margin-bottom: 2em;
+         }
+       
+         .flourish {
+            text-align: center;
+            border:0px;
+            width:10%;
+            background-color:#000;
+            height:2px;
+            margin: 1em auto;
+         }
+         .flourish span {
+            font-size:2em;
+            display:inline-block;
+         }
+
+         .flourish:before {
+            color: #332;
+            content: 'e';
+            font-family: "Wingdings 2";
+            letter-spacing: -2px;
+            float:left;
+            display:inline-block;
+            margin-left:-1.1em;
+            margin-top:-0.7em;
+         }
+         .flourish:after {
+            color: #332;
+            content: 'f';
+            font-family: "Wingdings 2";
+            letter-spacing: -2px;
+            float:right;
+            display:inline-block;
+            margin-top:-0.7em;
+            position:relative;
+            left:0.9em;
+         }
+
+
+         hr { margin: 1em 2em 2em 2em; }
+         
+         #poem #wrap {
+            margin: 0px auto;
+            width:30em;
+         }
+.poem, #poem {
+font-family: 'IM Fell English', serif;
+   font-size:20px;
+}
+.poem {
+   margin:0px auto;
+   display:inline-block;
+   text-align:left;
+   line-height:1.5em;
+}
+section.verse {
+   text-align:justify;
+   width:28em;
+   display:block;
+   margin: 2em auto;
+   font-size:.8em;
+   font-style:italic;
+   font-weight:normal;
+}
+cite {
+   font-style:normal;
+   display:block;
+   text-align:right;
+   font-size:14px;
+}
+q {
+  quotes: "“" "”" "‘" "’";
+}
+q:before {
+    content: open-quote;
+}
+q:after {
+    content: close-quote;
+}
+#list {
+   display:none;
+}
+@media print {
+   div.pagebreak { page-break-after:always; }
+   div#list { 
+      display:none; 
+   }
+   div#poem { 
+         font-size: 24px; 
+         box-shadow: none;
+   }
+}
+.page {
+   margin-top:3em;
+}
+artcle.poem ul li {
+   overflow:visible;
+   white-space:nowrap;
+}
+.page h3.published {
+   white-space:nowrap;
+   overflow:visible;
+}
