@@ -1,0 +1,1435 @@
+<?xml version="1.0" encoding="UTF-8"?>\n<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+"http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+ 
+<ncx version="2005-1" xml:lang="en" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+ 
+  <head>
+<!-- The following four metadata items are required for all NCX documents,
+including those conforming to the relaxed constraints of OPS 2.0 -->
+ 
+    <meta name="dtb:uid" content="123456789X"/> <!-- same as in .opf -->
+    <meta name="dtb:depth" content="1"/> <!-- 1 or higher -->
+    <meta name="dtb:totalPageCount" content="0"/> <!-- must be 0 -->
+    <meta name="dtb:maxPageNumber" content="0"/> <!-- must be 0 -->
+  </head>
+ 
+  <docTitle>
+    <text>A Lifetime in Verse: The Sonnets &amp; Poetry of Helen Frazee-Bower</text>
+  </docTitle>
+ 
+  <docAuthor>
+    <text>Robison, Christopher</text>
+  </docAuthor>
+<navMap>
+   <navPoint class="titlepage" id="L1T" playOrder="1">
+      <navLabel><text>AUTHOR'S NOTE</text></navLabel>
+      <content src="book.html#preface_1" />
+   </navPoint> 
+	<navPoint class="book" id="level1-book1" playOrder="2">
+		<navLabel><text>Part One: The Sonnets</text></navLabel>
+		<content src="book.html#section_1" />
+		<navPoint class="chapter" id="level2-book1chap1" playOrder="3">
+			<navLabel><text>Above The Clouds</text></navLabel>
+			<content src="book.html#poem_3" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap2" playOrder="4">
+			<navLabel><text>A Bride's Song</text></navLabel>
+			<content src="book.html#poem_4" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap3" playOrder="5">
+			<navLabel><text>A Deserted House</text></navLabel>
+			<content src="book.html#poem_7" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap4" playOrder="6">
+			<navLabel><text>A Dove At Dawn</text></navLabel>
+			<content src="book.html#poem_9" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap5" playOrder="7">
+			<navLabel><text>After-Thought</text></navLabel>
+			<content src="book.html#poem_15" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap6" playOrder="8">
+			<navLabel><text>Age Is For Love</text></navLabel>
+			<content src="book.html#poem_16" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap7" playOrder="9">
+			<navLabel><text>A Lady Chooses Rost</text></navLabel>
+			<content src="book.html#poem_18" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap8" playOrder="10">
+			<navLabel><text>Alien</text></navLabel>
+			<content src="book.html#poem_21" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap9" playOrder="11">
+			<navLabel><text>A Little Sister Of St. Mary's</text></navLabel>
+			<content src="book.html#poem_22" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap10" playOrder="12">
+			<navLabel><text>All That Is Most Important Yet Remains</text></navLabel>
+			<content src="book.html#poem_24" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap11" playOrder="13">
+			<navLabel><text>All We Like Sheep</text></navLabel>
+			<content src="book.html#poem_27" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap12" playOrder="14">
+			<navLabel><text>A Meadowlark At Dusk</text></navLabel>
+			<content src="book.html#poem_29" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap13" playOrder="15">
+			<navLabel><text>A Mother, To Her Children, On Mother's Day</text></navLabel>
+			<content src="book.html#poem_33" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap14" playOrder="16">
+			<navLabel><text>And Peter</text></navLabel>
+			<content src="book.html#poem_34" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap15" playOrder="17">
+			<navLabel><text>Andrea Paula</text></navLabel>
+			<content src="book.html#poem_35" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap16" playOrder="18">
+			<navLabel><text>And It Was Night</text></navLabel>
+			<content src="book.html#poem_37" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap17" playOrder="19">
+			<navLabel><text>And Redbud Quickens</text></navLabel>
+			<content src="book.html#poem_38" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap18" playOrder="20">
+			<navLabel><text>Another Moment</text></navLabel>
+			<content src="book.html#poem_40" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap19" playOrder="21">
+			<navLabel><text>A Prayer For Love</text></navLabel>
+			<content src="book.html#poem_42" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap20" playOrder="22">
+			<navLabel><text>A Song For Any Father</text></navLabel>
+			<content src="book.html#poem_45" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap21" playOrder="23">
+			<navLabel><text>A Song For Today</text></navLabel>
+			<content src="book.html#poem_47" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap22" playOrder="24">
+			<navLabel><text>A Son, To His Father, On Father's Day</text></navLabel>
+			<content src="book.html#poem_49" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap23" playOrder="25">
+			<navLabel><text>As The Rain Cometh Down</text></navLabel>
+			<content src="book.html#poem_50" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap24" playOrder="26">
+			<navLabel><text>A Student Prayer</text></navLabel>
+			<content src="book.html#poem_51" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap25" playOrder="27">
+			<navLabel><text>At The Cross</text></navLabel>
+			<content src="book.html#poem_53" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap26" playOrder="28">
+			<navLabel><text>A Woman To Her Lover</text></navLabel>
+			<content src="book.html#poem_54" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap27" playOrder="29">
+			<navLabel><text>A Tryst With Hills</text></navLabel>
+			<content src="book.html#poem_55" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap28" playOrder="30">
+			<navLabel><text>Attitudes</text></navLabel>
+			<content src="book.html#poem_56" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap29" playOrder="31">
+			<navLabel><text>Autumn Twilight</text></navLabel>
+			<content src="book.html#poem_57" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap30" playOrder="32">
+			<navLabel><text>A Village Churchyard</text></navLabel>
+			<content src="book.html#poem_59" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap31" playOrder="33">
+			<navLabel><text>Banner Of Love</text></navLabel>
+			<content src="book.html#poem_63" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap32" playOrder="34">
+			<navLabel><text>Before The Easter Dawn</text></navLabel>
+			<content src="book.html#poem_69" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap33" playOrder="35">
+			<navLabel><text>Behind The Rain</text></navLabel>
+			<content src="book.html#poem_70" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap34" playOrder="36">
+			<navLabel><text>Behold, The Dawn!</text></navLabel>
+			<content src="book.html#poem_71" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap35" playOrder="37">
+			<navLabel><text>Beloved It Is Night</text></navLabel>
+			<content src="book.html#poem_73" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap36" playOrder="38">
+			<navLabel><text>Benediction</text></navLabel>
+			<content src="book.html#poem_74" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap37" playOrder="39">
+			<navLabel><text>Beloved, Share Your Pleasure With The Wind</text></navLabel>
+			<content src="book.html#poem_76" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap38" playOrder="40">
+			<navLabel><text>Bethany Supper</text></navLabel>
+			<content src="book.html#poem_77" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap39" playOrder="41">
+			<navLabel><text>The Blind</text></navLabel>
+			<content src="book.html#poem_79" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap40" playOrder="42">
+			<navLabel><text>Blindness</text></navLabel>
+			<content src="book.html#poem_80" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap41" playOrder="43">
+			<navLabel><text>Books</text></navLabel>
+			<content src="book.html#poem_81" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap42" playOrder="44">
+			<navLabel><text>Bright Assault</text></navLabel>
+			<content src="book.html#poem_85" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap43" playOrder="45">
+			<navLabel><text>Broken For You</text></navLabel>
+			<content src="book.html#poem_87" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap44" playOrder="46">
+			<navLabel><text>Broken Petals</text></navLabel>
+			<content src="book.html#poem_89" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap45" playOrder="47">
+			<navLabel><text>Brooks And Women</text></navLabel>
+			<content src="book.html#poem_90" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap46" playOrder="48">
+			<navLabel><text>But Love Is More</text></navLabel>
+			<content src="book.html#poem_92" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap47" playOrder="49">
+			<navLabel><text>Christian Doctor</text></navLabel>
+			<content src="book.html#poem_103" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap48" playOrder="50">
+			<navLabel><text>Love's Fruit</text></navLabel>
+			<content src="book.html#poem_111" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap49" playOrder="51">
+			<navLabel><text>Commentary On Plowing: The Poet</text></navLabel>
+			<content src="book.html#poem_112" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap50" playOrder="52">
+			<navLabel><text>Commentary On Plowing: An Old Woman</text></navLabel>
+			<content src="book.html#poem_113" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap51" playOrder="53">
+			<navLabel><text>Comes The Dawn</text></navLabel>
+			<content src="book.html#poem_114" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap52" playOrder="54">
+			<navLabel><text>Coins</text></navLabel>
+			<content src="book.html#poem_116" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap53" playOrder="55">
+			<navLabel><text>Conversation</text></navLabel>
+			<content src="book.html#poem_120" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap54" playOrder="56">
+			<navLabel><text>Consider This</text></navLabel>
+			<content src="book.html#poem_121" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap55" playOrder="57">
+			<navLabel><text>Contentment</text></navLabel>
+			<content src="book.html#poem_123" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap56" playOrder="58">
+			<navLabel><text>Could Ye Not Watch?</text></navLabel>
+			<content src="book.html#poem_124" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap57" playOrder="59">
+			<navLabel><text>Courage</text></navLabel>
+			<content src="book.html#poem_129" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap58" playOrder="60">
+			<navLabel><text>Country Doctor</text></navLabel>
+			<content src="book.html#poem_132" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap59" playOrder="61">
+			<navLabel><text>Crushed Petals</text></navLabel>
+			<content src="book.html#poem_136" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap60" playOrder="62">
+			<navLabel><text>Dawn</text></navLabel>
+			<content src="book.html#poem_141" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap61" playOrder="63">
+			<navLabel><text>Day Before Spring</text></navLabel>
+			<content src="book.html#poem_142" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap62" playOrder="64">
+			<navLabel><text>Death Comes To All</text></navLabel>
+			<content src="book.html#poem_145" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap63" playOrder="65">
+			<navLabel><text>Dear Teacher</text></navLabel>
+			<content src="book.html#poem_147" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap64" playOrder="66">
+			<navLabel><text>Decision</text></navLabel>
+			<content src="book.html#poem_148" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap65" playOrder="67">
+			<navLabel><text>Delightful Bondage</text></navLabel>
+			<content src="book.html#poem_150" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap66" playOrder="68">
+			<navLabel><text>Departure</text></navLabel>
+			<content src="book.html#poem_151" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap67" playOrder="69">
+			<navLabel><text>Detachment</text></navLabel>
+			<content src="book.html#poem_153" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap68" playOrder="70">
+			<navLabel><text>Discovery</text></navLabel>
+			<content src="book.html#poem_154" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap69" playOrder="71">
+			<navLabel><text>Doctors</text></navLabel>
+			<content src="book.html#poem_156" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap70" playOrder="72">
+			<navLabel><text>Do Streets Remember?</text></navLabel>
+			<content src="book.html#poem_158" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap71" playOrder="73">
+			<navLabel><text>Drought, Part I</text></navLabel>
+			<content src="book.html#poem_163" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap72" playOrder="74">
+			<navLabel><text>Drought, Part II</text></navLabel>
+			<content src="book.html#poem_164" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap73" playOrder="75">
+			<navLabel><text>Easter&mdash;&mdash;&mdash;1938</text></navLabel>
+			<content src="book.html#poem_170" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap74" playOrder="76">
+			<navLabel><text>Easter Conversation</text></navLabel>
+			<content src="book.html#poem_171" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap75" playOrder="77">
+			<navLabel><text>Evening Song</text></navLabel>
+			<content src="book.html#poem_179" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap76" playOrder="78">
+			<navLabel><text>Eventide Song</text></navLabel>
+			<content src="book.html#poem_180" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap77" playOrder="79">
+			<navLabel><text>Expendable For God</text></navLabel>
+			<content src="book.html#poem_183" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap78" playOrder="80">
+			<navLabel><text>Farm Album: Girl At The Pasture Bars</text></navLabel>
+			<content src="book.html#poem_191" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap79" playOrder="81">
+			<navLabel><text>Farm Album: Boy At The Woodpile</text></navLabel>
+			<content src="book.html#poem_192" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap80" playOrder="82">
+			<navLabel><text>Farm Album: Old Man AT The Well</text></navLabel>
+			<content src="book.html#poem_193" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap81" playOrder="83">
+			<navLabel><text>Fellowship</text></navLabel>
+			<content src="book.html#poem_195" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap82" playOrder="84">
+			<navLabel><text>Finding</text></navLabel>
+			<content src="book.html#poem_199" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap83" playOrder="85">
+			<navLabel><text>Flight</text></navLabel>
+			<content src="book.html#poem_201" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap84" playOrder="86">
+			<navLabel><text>Forest Silence</text></navLabel>
+			<content src="book.html#poem_204" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap85" playOrder="87">
+			<navLabel><text>Frames</text></navLabel>
+			<content src="book.html#poem_207" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap86" playOrder="88">
+			<navLabel><text>Freedom</text></navLabel>
+			<content src="book.html#poem_208" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap87" playOrder="89">
+			<navLabel><text>Fruition</text></navLabel>
+			<content src="book.html#poem_210" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap88" playOrder="90">
+			<navLabel><text>Garment Of Praise</text></navLabel>
+			<content src="book.html#poem_212" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap89" playOrder="91">
+			<navLabel><text>Gift For Christmas</text></navLabel>
+			<content src="book.html#poem_214" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap90" playOrder="92">
+			<navLabel><text>Give Me Some Mountains</text></navLabel>
+			<content src="book.html#poem_215" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap91" playOrder="93">
+			<navLabel><text>God Comfort You</text></navLabel>
+			<content src="book.html#poem_217" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap92" playOrder="94">
+			<navLabel><text>God Gave His Son</text></navLabel>
+			<content src="book.html#poem_218" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap93" playOrder="95">
+			<navLabel><text>God Keeps A Pear Tree</text></navLabel>
+			<content src="book.html#poem_220" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap94" playOrder="96">
+			<navLabel><text>Go Ye Into All The World</text></navLabel>
+			<content src="book.html#poem_228" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap95" playOrder="97">
+			<navLabel><text>Go Youth, Get Wisdom</text></navLabel>
+			<content src="book.html#poem_229" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap96" playOrder="98">
+			<navLabel><text>Great Mind In The Crowd</text></navLabel>
+			<content src="book.html#poem_233" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap97" playOrder="99">
+			<navLabel><text>Greatness</text></navLabel>
+			<content src="book.html#poem_234" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap98" playOrder="100">
+			<navLabel><text>Have Faith In God</text></navLabel>
+			<content src="book.html#poem_239" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap99" playOrder="101">
+			<navLabel><text>Harvest</text></navLabel>
+			<content src="book.html#poem_245" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap100" playOrder="102">
+			<navLabel><text>Have Faith in God</text></navLabel>
+			<content src="book.html#poem_248" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap101" playOrder="103">
+			<navLabel><text>He Passes</text></navLabel>
+			<content src="book.html#poem_250" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap102" playOrder="104">
+			<navLabel><text>He Who Creates</text></navLabel>
+			<content src="book.html#poem_251" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap103" playOrder="105">
+			<navLabel><text>Hiding Place</text></navLabel>
+			<content src="book.html#poem_252" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap104" playOrder="106">
+			<navLabel><text>Hills Have No Envy</text></navLabel>
+			<content src="book.html#poem_253" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap105" playOrder="107">
+			<navLabel><text>How Shall I Say It?</text></navLabel>
+			<content src="book.html#poem_256" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap106" playOrder="108">
+			<navLabel><text>Hospital Memories</text></navLabel>
+			<content src="book.html#poem_257" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap107" playOrder="109">
+			<navLabel><text>In Times Like These</text></navLabel>
+			<content src="book.html#poem_263" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap108" playOrder="110">
+			<navLabel><text>The Slew Stars Came</text></navLabel>
+			<content src="book.html#poem_270" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap109" playOrder="111">
+			<navLabel><text>Two Married: The Heights</text></navLabel>
+			<content src="book.html#poem_271" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap110" playOrder="112">
+			<navLabel><text>Two Married: Descent</text></navLabel>
+			<content src="book.html#poem_272" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap111" playOrder="113">
+			<navLabel><text>Two Married: Flight</text></navLabel>
+			<content src="book.html#poem_273" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap112" playOrder="114">
+			<navLabel><text>Certainties</text></navLabel>
+			<content src="book.html#poem_274" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap113" playOrder="115">
+			<navLabel><text>SEA LOVER </text></navLabel>
+			<content src="book.html#poem_277" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap114" playOrder="116">
+			<navLabel><text>THERE IS NO WORD </text></navLabel>
+			<content src="book.html#poem_278" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book1chap115" playOrder="117">
+			<navLabel><text>All For You</text></navLabel>
+			<content src="book.html#poem_23" />
+		</navPoint>
+
+	</navPoint>
+	<navPoint class="book" id="level1-book2" playOrder="117">
+		<navLabel><text>Part Two: Songs &amp; Hymns</text></navLabel>
+		<content src="book.html#section_2" />
+		<navPoint class="chapter" id="level2-book2chap116" playOrder="119">
+			<navLabel><text>Alma Mater Song</text></navLabel>
+			<content src="book.html#poem_28" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book2chap117" playOrder="120">
+			<navLabel><text>A Spanish Serenade</text></navLabel>
+			<content src="book.html#poem_46" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book2chap118" playOrder="121">
+			<navLabel><text>Because Christ Came</text></navLabel>
+			<content src="book.html#poem_66" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book2chap119" playOrder="122">
+			<navLabel><text>Because Of Calvary</text></navLabel>
+			<content src="book.html#poem_68" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book2chap120" playOrder="123">
+			<navLabel><text>Behold The Lamb Of God</text></navLabel>
+			<content src="book.html#poem_72" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book2chap121" playOrder="124">
+			<navLabel><text>Broadway Christinas</text></navLabel>
+			<content src="book.html#poem_86" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book2chap122" playOrder="125">
+			<navLabel><text>Christ Is My Friend</text></navLabel>
+			<content src="book.html#poem_102" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book2chap123" playOrder="126">
+			<navLabel><text>Christ, The Lord, Has Come</text></navLabel>
+			<content src="book.html#poem_108" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book2chap124" playOrder="127">
+			<navLabel><text>Cling To His Hand</text></navLabel>
+			<content src="book.html#poem_110" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book2chap125" playOrder="128">
+			<navLabel><text>Encore</text></navLabel>
+			<content src="book.html#poem_175" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book2chap126" playOrder="129">
+			<navLabel><text>Farewell To Sixty-Sixth</text></navLabel>
+			<content src="book.html#poem_189" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book2chap127" playOrder="130">
+			<navLabel><text>God Is Calling You</text></navLabel>
+			<content src="book.html#poem_221" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book2chap128" playOrder="131">
+			<navLabel><text>God's Gate of Love</text></navLabel>
+			<content src="book.html#poem_222" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book2chap129" playOrder="132">
+			<navLabel><text>God's Love</text></navLabel>
+			<content src="book.html#poem_224" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book2chap130" playOrder="133">
+			<navLabel><text>God's Treasure</text></navLabel>
+			<content src="book.html#poem_225" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book2chap131" playOrder="134">
+			<navLabel><text>Grow Old Along With Me</text></navLabel>
+			<content src="book.html#poem_237" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book2chap132" playOrder="135">
+			<navLabel><text>Hay-Cock House</text></navLabel>
+			<content src="book.html#poem_240" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book2chap133" playOrder="136">
+			<navLabel><text>He Holds My Hand</text></navLabel>
+			<content src="book.html#poem_241" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book2chap134" playOrder="137">
+			<navLabel><text>He's Coming Again</text></navLabel>
+			<content src="book.html#poem_249" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book2chap135" playOrder="138">
+			<navLabel><text>River Songs</text></navLabel>
+			<content src="book.html#poem_267" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book2chap136" playOrder="139">
+			<navLabel><text>Alas! How True</text></navLabel>
+			<content src="book.html#poem_19" />
+		</navPoint>
+
+	</navPoint>
+	<navPoint class="book" id="level1-book3" playOrder="139">
+		<navLabel><text>Part Three: The Short Ones</text></navLabel>
+		<content src="book.html#section_3" />
+		<navPoint class="chapter" id="level2-book3chap137" playOrder="141">
+			<navLabel><text>America's Hope</text></navLabel>
+			<content src="book.html#poem_30" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book3chap138" playOrder="142">
+			<navLabel><text>A Song Of Mop Sticks</text></navLabel>
+			<content src="book.html#poem_48" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book3chap139" playOrder="143">
+			<navLabel><text>Ballad For Any Summer</text></navLabel>
+			<content src="book.html#poem_61" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book3chap140" playOrder="144">
+			<navLabel><text>Beauty</text></navLabel>
+			<content src="book.html#poem_64" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book3chap141" playOrder="145">
+			<navLabel><text>Certainty</text></navLabel>
+			<content src="book.html#poem_97" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book3chap142" playOrder="146">
+			<navLabel><text>Child's Song For The Sun</text></navLabel>
+			<content src="book.html#poem_99" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book3chap143" playOrder="147">
+			<navLabel><text>Consolation</text></navLabel>
+			<content src="book.html#poem_122" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book3chap144" playOrder="148">
+			<navLabel><text>Creed</text></navLabel>
+			<content src="book.html#poem_134" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book3chap145" playOrder="149">
+			<navLabel><text>Cry Out Of Darkness</text></navLabel>
+			<content src="book.html#poem_137" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book3chap146" playOrder="150">
+			<navLabel><text>Displaced Person</text></navLabel>
+			<content src="book.html#poem_155" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book3chap147" playOrder="151">
+			<navLabel><text>Experience</text></navLabel>
+			<content src="book.html#poem_184" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book3chap148" playOrder="152">
+			<navLabel><text>Fantasy</text></navLabel>
+			<content src="book.html#poem_188" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book3chap149" playOrder="153">
+			<navLabel><text>Forest Twilight</text></navLabel>
+			<content src="book.html#poem_205" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book3chap150" playOrder="154">
+			<navLabel><text>Four-Year Old</text></navLabel>
+			<content src="book.html#poem_206" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book3chap151" playOrder="155">
+			<navLabel><text>Great Thoughts You Weary Me</text></navLabel>
+			<content src="book.html#poem_235" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book3chap152" playOrder="156">
+			<navLabel><text>Hymn of Peace</text></navLabel>
+			<content src="book.html#poem_259" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book3chap153" playOrder="157">
+			<navLabel><text>Knitting Song For An Old Woman</text></navLabel>
+			<content src="book.html#poem_260" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book3chap154" playOrder="158">
+			<navLabel><text>Abiding In Him</text></navLabel>
+			<content src="book.html#poem_1" />
+		</navPoint>
+
+	</navPoint>
+	<navPoint class="book" id="level1-book4" playOrder="158">
+		<navLabel><text>Part Four: The Rest</text></navLabel>
+		<content src="book.html#section_4" />
+		<navPoint class="chapter" id="level2-book4chap155" playOrder="160">
+			<navLabel><text>A Blackbird Bathes</text></navLabel>
+			<content src="book.html#poem_2" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap156" playOrder="161">
+			<navLabel><text>Acceptance</text></navLabel>
+			<content src="book.html#poem_5" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap157" playOrder="162">
+			<navLabel><text>A Child Watching Trees</text></navLabel>
+			<content src="book.html#poem_6" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap158" playOrder="163">
+			<navLabel><text>A Doctor's Prayer</text></navLabel>
+			<content src="book.html#poem_8" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap159" playOrder="164">
+			<navLabel><text>Adventure</text></navLabel>
+			<content src="book.html#poem_10" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap160" playOrder="165">
+			<navLabel><text>Advice For Young Grief</text></navLabel>
+			<content src="book.html#poem_11" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap161" playOrder="166">
+			<navLabel><text>Afternoon With Patricia: Ambition</text></navLabel>
+			<content src="book.html#poem_12" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap162" playOrder="167">
+			<navLabel><text>Afternoon With Patricia: Romance</text></navLabel>
+			<content src="book.html#poem_13" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap163" playOrder="168">
+			<navLabel><text>After Quarreling</text></navLabel>
+			<content src="book.html#poem_14" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap164" playOrder="169">
+			<navLabel><text>A Handy Thing</text></navLabel>
+			<content src="book.html#poem_17" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap165" playOrder="170">
+			<navLabel><text>A Legend Of Childhood</text></navLabel>
+			<content src="book.html#poem_20" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap166" playOrder="171">
+			<navLabel><text>All Things Are New</text></navLabel>
+			<content src="book.html#poem_25" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap167" playOrder="172">
+			<navLabel><text>All Was Changed</text></navLabel>
+			<content src="book.html#poem_26" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap168" playOrder="173">
+			<navLabel><text>A Mother's Song For Her Daughter</text></navLabel>
+			<content src="book.html#poem_31" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap169" playOrder="174">
+			<navLabel><text>A Mother's Thanksgiving</text></navLabel>
+			<content src="book.html#poem_32" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap170" playOrder="175">
+			<navLabel><text>An Old Man</text></navLabel>
+			<content src="book.html#poem_36" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap171" playOrder="176">
+			<navLabel><text>Anniversary Song</text></navLabel>
+			<content src="book.html#poem_39" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap172" playOrder="177">
+			<navLabel><text>The Anti-Climax</text></navLabel>
+			<content src="book.html#poem_41" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap173" playOrder="178">
+			<navLabel><text>April Assault</text></navLabel>
+			<content src="book.html#poem_43" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap174" playOrder="179">
+			<navLabel><text>Argonne Forest</text></navLabel>
+			<content src="book.html#poem_44" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap175" playOrder="180">
+			<navLabel><text>At Home With God</text></navLabel>
+			<content src="book.html#poem_52" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap176" playOrder="181">
+			<navLabel><text>Aviator</text></navLabel>
+			<content src="book.html#poem_58" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap177" playOrder="182">
+			<navLabel><text>A Wild Rose</text></navLabel>
+			<content src="book.html#poem_60" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap178" playOrder="183">
+			<navLabel><text>Ballad For Bettsey</text></navLabel>
+			<content src="book.html#poem_62" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap179" playOrder="184">
+			<navLabel><text>Beauty Catches Singing</text></navLabel>
+			<content src="book.html#poem_65" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap180" playOrder="185">
+			<navLabel><text>Because He Rose</text></navLabel>
+			<content src="book.html#poem_67" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap181" playOrder="186">
+			<navLabel><text>Benjamin Franklin</text></navLabel>
+			<content src="book.html#poem_75" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap182" playOrder="187">
+			<navLabel><text>Black Hounds Of Hades</text></navLabel>
+			<content src="book.html#poem_78" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap183" playOrder="188">
+			<navLabel><text>Bridegroom's If</text></navLabel>
+			<content src="book.html#poem_82" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap184" playOrder="189">
+			<navLabel><text>Brief Beauty</text></navLabel>
+			<content src="book.html#poem_83" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap185" playOrder="190">
+			<navLabel><text>Brief Courage</text></navLabel>
+			<content src="book.html#poem_84" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap186" playOrder="191">
+			<navLabel><text>Broken Fences</text></navLabel>
+			<content src="book.html#poem_88" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap187" playOrder="192">
+			<navLabel><text>Burn, Candle, Burn</text></navLabel>
+			<content src="book.html#poem_91" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap188" playOrder="193">
+			<navLabel><text>But Not Our God;</text></navLabel>
+			<content src="book.html#poem_93" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap189" playOrder="194">
+			<navLabel><text>But Ye Are A Chosen Generation</text></navLabel>
+			<content src="book.html#poem_94" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap190" playOrder="195">
+			<navLabel><text>Candles</text></navLabel>
+			<content src="book.html#poem_95" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap191" playOrder="196">
+			<navLabel><text>Carol</text></navLabel>
+			<content src="book.html#poem_96" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap192" playOrder="197">
+			<navLabel><text>Child's Prayer</text></navLabel>
+			<content src="book.html#poem_98" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap193" playOrder="198">
+			<navLabel><text>Choosing The Forever</text></navLabel>
+			<content src="book.html#poem_100" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap194" playOrder="199">
+			<navLabel><text>Christ Changes Things</text></navLabel>
+			<content src="book.html#poem_101" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap195" playOrder="200">
+			<navLabel><text>Christmas Lullaby</text></navLabel>
+			<content src="book.html#poem_104" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap196" playOrder="201">
+			<navLabel><text>Christmas Party</text></navLabel>
+			<content src="book.html#poem_105" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap197" playOrder="202">
+			<navLabel><text>Christmas Song For Children</text></navLabel>
+			<content src="book.html#poem_106" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap198" playOrder="203">
+			<navLabel><text>Christmas Wish</text></navLabel>
+			<content src="book.html#poem_107" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap199" playOrder="204">
+			<navLabel><text>City Park</text></navLabel>
+			<content src="book.html#poem_109" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap200" playOrder="205">
+			<navLabel><text>Compassion Is Thy Name</text></navLabel>
+			<content src="book.html#poem_115" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap201" playOrder="206">
+			<navLabel><text>Confidences</text></navLabel>
+			<content src="book.html#poem_117" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap202" playOrder="207">
+			<navLabel><text>Consecration</text></navLabel>
+			<content src="book.html#poem_118" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap203" playOrder="208">
+			<navLabel><text>Consecration</text></navLabel>
+			<content src="book.html#poem_119" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap204" playOrder="209">
+			<navLabel><text>Counselor's Lament (Antidote for Ego Inflation)</text></navLabel>
+			<content src="book.html#poem_125" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap205" playOrder="210">
+			<navLabel><text>Country Christmas</text></navLabel>
+			<content src="book.html#poem_126" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap206" playOrder="211">
+			<navLabel><text>Country Schoolhouse</text></navLabel>
+			<content src="book.html#poem_127" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap207" playOrder="212">
+			<navLabel><text>Couplets By The Way</text></navLabel>
+			<content src="book.html#poem_128" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap208" playOrder="213">
+			<navLabel><text>Courage</text></navLabel>
+			<content src="book.html#poem_130" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap209" playOrder="214">
+			<navLabel><text>Courage</text></navLabel>
+			<content src="book.html#poem_131" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap210" playOrder="215">
+			<navLabel><text>Courage, Resourcefulness, Character</text></navLabel>
+			<content src="book.html#poem_133" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap211" playOrder="216">
+			<navLabel><text>Cross-Roads</text></navLabel>
+			<content src="book.html#poem_135" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap212" playOrder="217">
+			<navLabel><text>Cycle</text></navLabel>
+			<content src="book.html#poem_138" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap213" playOrder="218">
+			<navLabel><text>Dartmoor Dusk</text></navLabel>
+			<content src="book.html#poem_139" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap214" playOrder="219">
+			<navLabel><text>Dawn</text></navLabel>
+			<content src="book.html#poem_140" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap215" playOrder="220">
+			<navLabel><text>Day Before Winter</text></navLabel>
+			<content src="book.html#poem_143" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap216" playOrder="221">
+			<navLabel><text>Days</text></navLabel>
+			<content src="book.html#poem_144" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap217" playOrder="222">
+			<navLabel><text>Dead Men Speak The Truth</text></navLabel>
+			<content src="book.html#poem_146" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap218" playOrder="223">
+			<navLabel><text>Dedication</text></navLabel>
+			<content src="book.html#poem_149" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap219" playOrder="224">
+			<navLabel><text>Departure</text></navLabel>
+			<content src="book.html#poem_152" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap220" playOrder="225">
+			<navLabel><text>Doggerel For Jenny</text></navLabel>
+			<content src="book.html#poem_157" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap221" playOrder="226">
+			<navLabel><text>Double Trouble</text></navLabel>
+			<content src="book.html#poem_159" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap222" playOrder="227">
+			<navLabel><text>Do You Remember?</text></navLabel>
+			<content src="book.html#poem_160" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap223" playOrder="228">
+			<navLabel><text>Dream House</text></navLabel>
+			<content src="book.html#poem_161" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap224" playOrder="229">
+			<navLabel><text>Dreams And Visions</text></navLabel>
+			<content src="book.html#poem_162" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap225" playOrder="230">
+			<navLabel><text>Dual</text></navLabel>
+			<content src="book.html#poem_165" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap226" playOrder="231">
+			<navLabel><text>Dust</text></navLabel>
+			<content src="book.html#poem_166" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap227" playOrder="232">
+			<navLabel><text>Dust Storm</text></navLabel>
+			<content src="book.html#poem_167" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap228" playOrder="233">
+			<navLabel><text>Duty</text></navLabel>
+			<content src="book.html#poem_168" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap229" playOrder="234">
+			<navLabel><text>Easter</text></navLabel>
+			<content src="book.html#poem_169" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap230" playOrder="235">
+			<navLabel><text>Easter Dawn</text></navLabel>
+			<content src="book.html#poem_172" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap231" playOrder="236">
+			<navLabel><text>Easter Lilies</text></navLabel>
+			<content src="book.html#poem_173" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap232" playOrder="237">
+			<navLabel><text>Emmanuel</text></navLabel>
+			<content src="book.html#poem_174" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap233" playOrder="238">
+			<navLabel><text>Episode</text></navLabel>
+			<content src="book.html#poem_176" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap234" playOrder="239">
+			<navLabel><text>Eternal</text></navLabel>
+			<content src="book.html#poem_177" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap235" playOrder="240">
+			<navLabel><text>Even-Song</text></navLabel>
+			<content src="book.html#poem_178" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap236" playOrder="241">
+			<navLabel><text>Except Ye Become As Little Children</text></navLabel>
+			<content src="book.html#poem_181" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap237" playOrder="242">
+			<navLabel><text>Expectant</text></navLabel>
+			<content src="book.html#poem_182" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap238" playOrder="243">
+			<navLabel><text>Faithful And Fruitful</text></navLabel>
+			<content src="book.html#poem_185" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap239" playOrder="244">
+			<navLabel><text>Fallen Aviator</text></navLabel>
+			<content src="book.html#poem_186" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap240" playOrder="245">
+			<navLabel><text>Fallen Star</text></navLabel>
+			<content src="book.html#poem_187" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap241" playOrder="246">
+			<navLabel><text>Farewell</text></navLabel>
+			<content src="book.html#poem_190" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap242" playOrder="247">
+			<navLabel><text>Father of Science</text></navLabel>
+			<content src="book.html#poem_194" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap243" playOrder="248">
+			<navLabel><text>First Christmas</text></navLabel>
+			<content src="book.html#poem_196" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap244" playOrder="249">
+			<navLabel><text>First Day of School</text></navLabel>
+			<content src="book.html#poem_197" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap245" playOrder="250">
+			<navLabel><text>First Love</text></navLabel>
+			<content src="book.html#poem_198" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap246" playOrder="251">
+			<navLabel><text>First Pussy Willow</text></navLabel>
+			<content src="book.html#poem_200" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap247" playOrder="252">
+			<navLabel><text>For All..Christmas...Forever</text></navLabel>
+			<content src="book.html#poem_202" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap248" playOrder="253">
+			<navLabel><text>For A Young Christian</text></navLabel>
+			<content src="book.html#poem_203" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap249" playOrder="254">
+			<navLabel><text>Friendship Garden</text></navLabel>
+			<content src="book.html#poem_209" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap250" playOrder="255">
+			<navLabel><text>Fugitive</text></navLabel>
+			<content src="book.html#poem_211" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap251" playOrder="256">
+			<navLabel><text>Gates</text></navLabel>
+			<content src="book.html#poem_213" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap252" playOrder="257">
+			<navLabel><text>God's Afterward &mdash; And Now</text></navLabel>
+			<content src="book.html#poem_216" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap253" playOrder="258">
+			<navLabel><text>God's Gifts</text></navLabel>
+			<content src="book.html#poem_219" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap254" playOrder="259">
+			<navLabel><text>God Loves You</text></navLabel>
+			<content src="book.html#poem_223" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap255" playOrder="260">
+			<navLabel><text>God With Us</text></navLabel>
+			<content src="book.html#poem_226" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap256" playOrder="261">
+			<navLabel><text>God Understands</text></navLabel>
+			<content src="book.html#poem_227" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap257" playOrder="262">
+			<navLabel><text>Grandmothers, Teach Them The Word</text></navLabel>
+			<content src="book.html#poem_230" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap258" playOrder="263">
+			<navLabel><text>Gratitude</text></navLabel>
+			<content src="book.html#poem_231" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap259" playOrder="264">
+			<navLabel><text>Gray Lady (The Red Cross worker)</text></navLabel>
+			<content src="book.html#poem_232" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap260" playOrder="265">
+			<navLabel><text>Grief Came To Me Smiling</text></navLabel>
+			<content src="book.html#poem_236" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap261" playOrder="266">
+			<navLabel><text>Gumdrops</text></navLabel>
+			<content src="book.html#poem_238" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap262" playOrder="267">
+			<navLabel><text>He Just Said</text></navLabel>
+			<content src="book.html#poem_242" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap263" playOrder="268">
+			<navLabel><text>Highway to God</text></navLabel>
+			<content src="book.html#poem_243" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap264" playOrder="269">
+			<navLabel><text>How Nice!</text></navLabel>
+			<content src="book.html#poem_244" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap265" playOrder="270">
+			<navLabel><text>Harvest Evening</text></navLabel>
+			<content src="book.html#poem_246" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap266" playOrder="271">
+			<navLabel><text>Heart, Build A Fire</text></navLabel>
+			<content src="book.html#poem_247" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap267" playOrder="272">
+			<navLabel><text>His Face</text></navLabel>
+			<content src="book.html#poem_254" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap268" playOrder="273">
+			<navLabel><text>How Much More God</text></navLabel>
+			<content src="book.html#poem_255" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap269" playOrder="274">
+			<navLabel><text>Hungry Hawk</text></navLabel>
+			<content src="book.html#poem_258" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap270" playOrder="275">
+			<navLabel><text>Tea Time</text></navLabel>
+			<content src="book.html#poem_261" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap271" playOrder="276">
+			<navLabel><text>Mixing Bowl</text></navLabel>
+			<content src="book.html#poem_262" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap272" playOrder="277">
+			<navLabel><text>Last Leaves</text></navLabel>
+			<content src="book.html#poem_264" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap273" playOrder="278">
+			<navLabel><text>Home Thoughts At Sea</text></navLabel>
+			<content src="book.html#poem_265" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap274" playOrder="279">
+			<navLabel><text>Quarrel</text></navLabel>
+			<content src="book.html#poem_266" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap275" playOrder="280">
+			<navLabel><text>Supper Song</text></navLabel>
+			<content src="book.html#poem_268" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap276" playOrder="281">
+			<navLabel><text>Sweeping Song</text></navLabel>
+			<content src="book.html#poem_269" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap277" playOrder="282">
+			<navLabel><text>My Gifts </text></navLabel>
+			<content src="book.html#poem_275" />
+		</navPoint>
+
+		<navPoint class="chapter" id="level2-book4chap278" playOrder="283">
+			<navLabel><text>Dawn&mdash;&mdash;and Dawn</text></navLabel>
+			<content src="book.html#poem_276" />
+		</navPoint>
+
+	</navPoint>
+</navMap>
+</ncx>

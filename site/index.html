@@ -22,7 +22,7 @@
       <link rel="icon" type="image/png" sizes="96x96" href="/site/images/favicon-96x96.png">
       <link rel="icon" type="image/png" sizes="16x16" href="/site/images/favicon-16x16.png">
       <link rel="icon" type="image/png" href="/site/images/favicon-16x16.png">
-      <link rel="manifest" href="/manifest.json">
+      <link rel="manifest" href="/site/manifest.json">
       <meta name="msapplication-TileColor" content="#ffffff">
       <meta name="msapplication-TileImage" content="/site/images/ms-icon-144x144.png">
       <meta name="theme-color" content="#ffffff">
@@ -112,7 +112,7 @@
 						<!-- Post -->
 							<template id="post-template">
 								<header>
-								<a href="#{{id}}" class="image featured"><img src="images/{{image}}" alt="{{title}}" /></a>
+								<a href="/poster/?id={{id}}" target="_blank" class="image featured"><img src="images/{{image}}" alt="{{title}}" /></a>
    							</header>
 								{{formattedPoem}}
 								<footer>
@@ -197,19 +197,28 @@
 						<!-- About -->
 							<section id='about' class="blurb">
 								<h2>About</h2>
-								<p>
-Helen Frazee-Bower was one of America's finest writers of verse in the early 20th century. She was born in California, 
-the daughter of artist and writer Isaac Jenkinsen Frazee. She was the wife of musician William M. Bower and the 
-mother of five.  Besides being a prolific poet, author and storyteller, Helen taught in the Los Angeles City School System, 
-was a well-known speaker and a Bible teacher. </p>
-<p>In November, 1955, Helen's life was changed forever when she was carelessly struck by an automobile while using a crosswalk
-to cross a busy Los Angeles street.  From that time until her death in June of 1960, she was paralyzed from her neck down, unable to
-use her arms or legs. Her poetry continued, however, with the aid of her loving and devoted husband, to whom she dictated her work. 
-</p>
-<p>A devout woman, her poems and stories have a deeply spiritual nature. Her work has appeared in many religious publications, 
-poetry magazines, as well as more popular mainstream magazines such as Harper's, Saturday Evening Post, Ladies Home Journal, 
-and Good Housekeeping.
-</p>
+                        <p>Helen Frazee-Bower was one of America's finest writers of verse 
+                        in the early 20th century. She was born in California, the daughter 
+                        of artist and writer Isaac Jenkinsen Frazee. She was the wife of 
+                        musician William M. Bower and the mother of five.  Besides being 
+                        a prolific poet, author and storyteller, Helen taught in the 
+                        Los Angeles City School System, was a well-known speaker and a Bible 
+                        teacher. </p>
+                        <p>In November, 1955, Helen's life was changed forever when she was 
+                        carelessly struck by an automobile while using a crosswalk to cross 
+                        a busy Los Angeles street.  From that time until her death in June 
+                        of 1960, she was paralyzed from her neck down, unable to use her 
+                        arms or legs.</p>
+                        <p>Her poetry continued, however, with the aid of her loving and 
+                        devoted husband, to whom she dictated her work.  A devout woman, her 
+                        poems and stories have a deeply spiritual nature. Helen was quite
+                        fond of the "Shakespearean Sonnet" form, with much of her body of 
+                        work adhering to the strict rules of ryhme and iambic pentameter.
+                        Her work has appeared in many religious publications, poetry 
+                        magazines, as well as many of the popular mainstream magazines of 
+                        the time such as Harper's Weekly, The Saturday Evening Post, 
+                        Ladies Home Journal, Good Housekeeping and countless others.</p>
+
 								<ul class="actions">
 									<li><a href="#" class="button">Learn More</a></li>
 								</ul>
@@ -239,6 +248,15 @@ and Good Housekeeping.
 			<script src="smoothscroll.js"></script>
          <script src="main.js"></script>
          <script src="../genpoems.php" onload="boss.init();"></script>
+         <script>
+           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+           (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+           m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+           })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
+           ga('create', 'UA-88387093-1', 'auto');
+           ga('send', 'pageview');
+
+         </script>
 	</body>
 </html>

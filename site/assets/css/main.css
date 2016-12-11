@@ -3689,12 +3689,13 @@ max-height:350px;
    margin-top:0.1em;
 }
 .comment-drawer {
-   overflow:visible;
-   height:auto;
+   overflow:hidden;
+   height:200px;
+   -webkit-transition: all 2s;
+   transition: all 2s;
 }
 
 .comment-drawer.closed {
-   overflow:hidden;
    height:1px;
 }
 

@@ -279,17 +279,16 @@ var boss = (function() {
       
       },
       fb_showFace: function() {
-         FB.api("/me?fields=name,first_name,last_name,email,picture", function(obj) {
-            boss.user = obj;
-            if (obj.picture && obj.picture.data && obj.picture.data.url) {
-               var fbpicEl = document.getElementById("fbpic");
-               var fbpic = document.createElement("img");
-               fbpic.style.margin = "2px";
-               fbpic.src = obj.picture.data.url;
-               fbpicEl.innerHTML = "";
-               fbpicEl.appendChild(fbpic);
-            }
-         });
+         var obj = boss.user;
+         boss.user = obj;
+         if (obj.picture && obj.picture.data && obj.picture.data.url) {
+            var fbpicEl = document.getElementById("fbpic");
+            var fbpic = document.createElement("img");
+            fbpic.style.margin = "2px";
+            fbpic.src = obj.picture.data.url;
+            fbpicEl.innerHTML = "";
+            fbpicEl.appendChild(fbpic);
+         }
       },
       fb_statusChangeCallback: function(response) {
           if (response.status === 'connected') {
@@ -303,6 +302,7 @@ var boss = (function() {
       },
       fb_login: function() {
          FB.api('/me?fields=id,first_name,last_name,email,picture', function(response) {
+            boss.user = response;
             console.log('Successful login for: ' + response.name);
             console.dir(response);
             boss.fb_showFace();
@@ -341,7 +341,7 @@ var boss = (function() {
                   boss.currentPoemId = action;
                   boss.makeArticle(action, true);
                   window.scroll({top:0,left:0,behavior:'smooth'});
-               } else {
+               } else if (action) {
                   boss.doAction(action);
                }
             });

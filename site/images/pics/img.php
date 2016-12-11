@@ -56,8 +56,8 @@
             -mox-transition: all 1s;
             -webkit-transition: all 1s;
             transition: all 1s;
-            width: 128px;
-            height: 128px;
+            width: 64px;
+            height: 64px;
             margin-left:0px;
             object-fit: contain;
          }

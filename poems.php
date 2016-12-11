@@ -1,3 +1,17 @@
+<?php
+ $link = mysql_connect('localhost', 'mail', 'activate')
+    or die('Could not connect: ' . mysql_error());
+    mysql_select_db('hfb') or die('Could not select database');
+
+$result = mysql_query("select * from poem");
+
+while ($poem = mysql_fetch_assoc($result)) {
+   $cr = mysql_query("select count(*) from comment where poem_id=".$poem['id']);
+   $cmts = mysql_fetch_array($cr);
+   $poem['comments'] = $cmts[0];
+   $poems[] = $poem;
+}
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -19,10 +33,13 @@
          <h2>The Sonnets and Poetry of Helen Frazee Bower</h2>
          <br><br>
          <h3>By Helen Frazee Bower</h3>
-         <h3>Collected and Edited By Christopher D. Robison</h3>
+         <h3>Edited By Christopher D. Robison</h3>
          <br><br><br><br>
       </div>
       <div class="pagebreak"></div>
+      <?php
+
+      ?>
 	</div>
 <script>
       function init() {
